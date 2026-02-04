@@ -30,3 +30,9 @@ supports expandable storage via SD card (0 = no, 1 = yes)\
 The dataset contains 980 smartphones (981 rows including the header) with
 comprehensive specifications covering pricing, performance, camera capabilities,
 display features, and connectivity options.
+
+## Questions:
+1. How does the brand of a smartphone affect its price?
+2. Does the brand of the smartphone’s processor influence the battery capacity?
+3. Is there a significant difference in price between smartphones with fast charging and those without?
+4. Is higher battery capacity associated with higher smartphone prices?
